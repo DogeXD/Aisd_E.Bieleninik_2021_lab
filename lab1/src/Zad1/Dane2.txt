@@ -1,0 +1,6 @@
+numer indeksu, nazwisko, imię, ocena z AiSD
+2222 Samulski Jakub 4.0
+2221 Wokulski Andrzej 3.0
+1211 Sienkiewicz Henryk 4.5
+3331 Mickiewicz Adam 5.5
+2137 Mickiewicz Jan 2.5
